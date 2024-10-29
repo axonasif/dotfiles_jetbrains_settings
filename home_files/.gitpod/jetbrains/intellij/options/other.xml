@@ -1,12 +1,10 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="62128" />
+  <component name="BuiltInServerOptions" builtInServerPort="64993" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
-    <option name="ideAAType" value="Greyscale" />
-    <option name="editorAAType" value="Greyscale" />
     <option name="fontFace" value="Inter" />
     <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
@@ -14,23 +12,23 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "RunOnceActivity.llm.installer.activate.toolwindow": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "evlsprt3.242": "4",
+    "evlsprt3.242": "6",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "242.21829.142",
+    "experimental.ui.switch": "true",
+    "experimental.ui.used.version": "242.23339.11",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "ide.memory.adjusted": "true",
     "input.method.disabler.muted": "true",
-    "installed.kotlin.plugin.version": "242.21829.142-IJ",
+    "installed.kotlin.plugin.version": "242.23339.11-IJ",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
-    "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@client_Dark",
-    "registry.to.advanced.settings.migration.build": "IU-242.21829.142",
+    "registry.to.advanced.settings.migration.build": "IU-242.23339.11",
     "rider.trace.scenarios": "",
     "ts.lib.d.ts.version": "5.4.3"
   },
@@ -49,9 +47,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="spring-petclinic-history" project-path="/workspace/spring-petclinic" last-access-time="1727064753535" />
-      <command-history-file filename="spring-petclinic-history1" project-path="/workspace/spring-petclinic" last-access-time="1727065122917" />
-      <command-history-file filename="spring-petclinic-history2" project-path="/workspace/spring-petclinic" last-access-time="1727065274578" />
+      <command-history-file filename="empty-history" project-path="/workspace/empty" last-access-time="1730220435511" />
     </command-history-files>
   </component>
 </application>

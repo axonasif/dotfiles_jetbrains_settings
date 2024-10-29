@@ -2,27 +2,19 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="/workspace/spring-petclinic">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="2mSKrF53uh7JJyYajtba5rvfcXc">
-              <option name="activationTimestamp" value="1727066694990" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-242.21829.142" />
-              <option name="buildTimestamp" value="1724873520000" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1727064734480" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/workspace/empty">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2mSQ9RCPQoD2qvHiaoJwEtfaWTo">
-              <option name="activationTimestamp" value="1727067367194" />
+            <RecentProjectMetaInfo frameTitle="empty" opened="true" projectWorkspaceId="2nw80ju92GdbnC8VrWc1AdLy6s8">
+              <option name="activationTimestamp" value="1729872992883" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-242.21829.142" />
-              <option name="buildTimestamp" value="1724873520000" />
+              <option name="build" value="IU-242.23339.11" />
+              <option name="buildTimestamp" value="1727241120000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="457" y="139" width="1400" height="776" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1727067346227" />
+              <option name="projectOpenTimestamp" value="1730220435505" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
