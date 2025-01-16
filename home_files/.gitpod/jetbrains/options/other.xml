@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="63176" />
+  <component name="BuiltInServerOptions" builtInServerPort="62371" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
@@ -45,8 +45,8 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="test-history1" project-path="/workspace/test" last-access-time="1737044671295" />
-      <command-history-file filename="test-history2" project-path="/workspace/test" last-access-time="1737042862045" />
+      <command-history-file filename="test-history2" project-path="/workspace/test" last-access-time="1737050591218" />
+      <command-history-file filename="test-history" project-path="/workspace/test" last-access-time="1737049767022" />
     </command-history-files>
   </component>
 </application>

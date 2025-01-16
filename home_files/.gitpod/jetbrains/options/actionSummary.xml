@@ -6,6 +6,9 @@
     <e n="$Undo">
       <i c="5" l="1737046500313" />
     </e>
+    <e n="CaptureCPUUsageData">
+      <i c="2" d="1" l="1737049569391" k="1737048722331" />
+    </e>
     <e n="CommentByLineComment">
       <i c="1" l="1737027368994" />
     </e>
@@ -77,6 +80,9 @@
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="8" l="1737027451195" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1737049573518" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="6" l="1737039420221" />
