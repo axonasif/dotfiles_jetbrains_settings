@@ -45,8 +45,8 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
+      <command-history-file filename="test-history1" project-path="/workspace/test" last-access-time="1737044671295" />
       <command-history-file filename="test-history2" project-path="/workspace/test" last-access-time="1737042862045" />
-      <command-history-file filename="test-history" project-path="/workspace/test" last-access-time="1737042901626" />
     </command-history-files>
   </component>
 </application>
