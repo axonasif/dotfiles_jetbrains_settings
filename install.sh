@@ -27,8 +27,17 @@ current_dir="$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)"
 install_dotfiles "${current_dir}/home_files" "${HOME}"
 install_dotfiles "${current_dir}/workspace_repo" "${GITPOD_REPO_ROOT}"
 
-EPHEMERAL_JB_DIR=(/workspace/.config/JetBrains/RemoteDev-*)
-install_dotfiles "${current_dir}/ephemeral_jetbrains_config" "${EPHEMERAL_JB_DIR}"
+if test -e "${current_dir}/ephemeral_jetbrains_config" && test -v JETBRAINS_GITPOD_BACKEND_KIND; then
+    jb_dir="$(
+        shopt -s nullglob
+        until idir=(/workspace/.config/JetBrains/RemoteDev-*) && test -n "${ides:-}"; do
+            sleep 0.5
+        done
+        echo "${idir[0]}"
+    )"
+
+    install_dotfiles "${current_dir}/ephemeral_jetbrains_config" "${jb_dir}"
+fi
 
 if test ! -e /usr/bin/commitjb; then
     sudo ln -s "${current_dir}/commitjb" /usr/bin/
