@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="coolbro" value="    workspace_xml=&quot;${GITPOD_REPO_ROOT}/.idea/workspace.xml&quot;&#10;    if test -e &quot;${workspace_xml}&quot;; then&#10;      mkdir -p &quot;${DOTFILES_WORKSPACE_REPO_DIR}/.idea&quot;&#10;      cp -ar &quot;${workspace_xml}&quot; &quot;${DOTFILES_WORKSPACE_REPO_DIR}/.idea&quot; || :&#10;    fi" toReformat="false" toShortenFQNames="true" />
+</templateSet>
