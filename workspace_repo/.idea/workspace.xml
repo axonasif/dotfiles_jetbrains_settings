@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="456edb30-51f2-4360-bf06-b3f47ff34c8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
-    </list>
+    <list default="true" id="456edb30-51f2-4360-bf06-b3f47ff34c8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +79,7 @@
       <updated>1744125742696</updated>
       <workItem from="1744125746234" duration="124000" />
       <workItem from="1744125904027" duration="263000" />
+      <workItem from="1744128063728" duration="210000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="coolbro" value="      shopt -s nullglob&#10;      until ides=(/workspace/.config/JetBrains/RemoteDev-*) &amp;&amp; test -n &quot;${ides:-}&quot;; do&#10;        sleep 1&#10;      done" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
