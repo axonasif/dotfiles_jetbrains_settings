@@ -1,6 +1,6 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="50811" />
-  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="BuiltInServerOptions" builtInServerPort="53223" />
+  <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
@@ -12,42 +12,43 @@
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFonts" value="true" />
   </component>
-  <component name="PropertyService"><![CDATA[{
-  "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
-    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
-    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "evlsprt3.243": "6",
-    "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "243.24978.46",
-    "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
-    "input.method.disabler.muted": "true",
-    "installed.kotlin.plugin.version": "243.24978.46-IJ",
-    "llm.installer.activate.toolwindow.delayed": "true",
-    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
-    "previousColorScheme": "_@client_Dark",
-    "registry.to.advanced.settings.migration.build": "IU-243.24978.46",
-    "rider.trace.scenarios": "",
-    "ts.lib.d.ts.version": "5.6.3"
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;0&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;evlsprt3.243&quot;: &quot;6&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;243.24978.46&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;243.24978.46-IJ&quot;,
+    &quot;llm.installer.activate.toolwindow.delayed&quot;: &quot;true&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;LLM_INSTALLER&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@client_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IU-243.24978.46&quot;,
+    &quot;rider.trace.scenarios&quot;: &quot;&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.6.3&quot;
   },
-  "keyToStringList": {
-    "fileTypeDetectors": [
-      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
-      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
-      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
-      "com.intellij.database.vfs.DbStorageFileType$Detector",
-      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
-      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
-      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="test-history" project-path="/workspace/test" last-access-time="1744125757073" />
+      <command-history-file filename="test-history1" project-path="/workspace/test" last-access-time="1744125914391" />
+      <command-history-file filename="test-history" project-path="/workspace/test" last-access-time="1744125910321" />
     </command-history-files>
   </component>
 </application>

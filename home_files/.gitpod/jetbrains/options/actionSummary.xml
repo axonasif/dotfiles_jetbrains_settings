@@ -1,7 +1,31 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="CodeCompletion">
+      <i c="1" l="1744125933676" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1744126160418" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1744126164178" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1744126157732" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="1" l="1744126161534" />
+    </e>
     <e n="EditorPaste">
       <i c="1" l="1744125867856" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="3" l="1744126160771" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="5" l="1744126162905" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1744126166917" />
     </e>
     <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$11">
       <i c="2" l="1744125862942" />

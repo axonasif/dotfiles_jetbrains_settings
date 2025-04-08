@@ -13,7 +13,7 @@ EPHEMERAL_JB_OPTIONS_DIR="${EPHEMERAL_JB_DIR}/options"
 
 (
     mkdir -p "${PERSISTENT_DOTFILES_DIR}"
-    cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_DOTFILES_DIR}" 2>/dev/null
+    cp -ar "${EPHEMERAL_JB_OPTIONS_DIR}" "${PERSISTENT_DOTFILES_DIR}" 2>/dev/null || :
 
     # home/.config dir
     if test -e "${HOME}/.config/JetBrains"; then
