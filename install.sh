@@ -28,15 +28,14 @@ install_dotfiles "${current_dir}/home_files" "${HOME}"
 install_dotfiles "${current_dir}/workspace_repo" "${GITPOD_REPO_ROOT}"
 
 if test -e "${current_dir}/ephemeral_jetbrains_config" && test -v JETBRAINS_GITPOD_BACKEND_KIND; then
-    jb_dir="$(
+    (
         shopt -s nullglob
-        until idir=(/workspace/.config/JetBrains/RemoteDev-*) && test -n "${ides:-}"; do
+        until ides=(/workspace/.config/JetBrains/RemoteDev-*) && test -n "${ides:-}"; do
             sleep 0.5
         done
-        echo "${idir[0]}"
-    )"
 
-    install_dotfiles "${current_dir}/ephemeral_jetbrains_config" "${jb_dir}"
+        install_dotfiles "${current_dir}/ephemeral_jetbrains_config" "${ides[0]}"
+    ) & disown
 fi
 
 if test ! -e /usr/bin/commitjb; then
