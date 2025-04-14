@@ -1,7 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1744640314869" />
+    </e>
     <e n="CodeCompletion">
       <i c="1" l="1744125933676" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1744640313599" />
     </e>
     <e n="EditorLeft">
       <i c="1" l="1744126160418" />

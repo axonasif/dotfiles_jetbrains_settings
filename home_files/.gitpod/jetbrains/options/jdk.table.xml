@@ -6,11 +6,6 @@
       <version value="Azul Zulu 17.0.14" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.14.fx-zulu" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.14.fx-zulu!/com.azul.crs.client" type="simple" />
@@ -94,9 +89,6 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/17.0.14.fx-zulu!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/17.0.14.fx-zulu/lib/src.zip!/java.se" type="simple" />
@@ -188,11 +180,6 @@
       <version value="Azul Zulu 11.0.26" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/11.0.26.fx-zulu" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/11.0.26.fx-zulu!/com.azul.crs.client" type="simple" />
@@ -277,9 +264,6 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/11.0.26.fx-zulu!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.26.fx-zulu/lib/src.zip!/java.se" type="simple" />
@@ -372,11 +356,6 @@
       <version value="Azul Zulu 11.0.26" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/current" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/com.azul.crs.client" type="simple" />
@@ -461,9 +440,6 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.se" type="simple" />
